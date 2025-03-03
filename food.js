@@ -147,4 +147,19 @@
     experience:
       "Surprisingly addictive. The balance of spices and sweetness made it incredibly smooth, and the condensed milk gave it a perfect creamy finish. A must-try in Qatar.",
   },
+  {
+    "date": "2025-03-03",
+    "location": {
+      "city": "Doha",
+      "country": "Qatar",
+      "country_code": "QA"
+    },
+    "dish": {
+      "name": "Arabic Salad",
+      "type": "Salad",
+      "cuisine": "Middle Eastern",
+      "description": "A fresh salad made with diced cucumbers, tomatoes, onions, parsley, and mint, dressed with lemon juice, olive oil, salt, and pepper. Light, refreshing, and a perfect side dish for grilled meats and rice dishes."
+    },
+    "experience": "Crisp, tangy, and super refreshing. The combination of lemon juice, olive oil, and fresh herbs made it the perfect contrast to heavier dishes. Simple but delicious."
+  }
 ];
