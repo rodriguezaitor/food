@@ -33,51 +33,57 @@
     experience:
       "Classic, comforting, and insanely flavorful. The chicken was juicy with a perfect blend of spices. The garlic sauce made it even better, and the bread was soft but slightly toasted. One of those meals you could eat anytime and never get tired of.",
   },
-  [
+
   {
-    "date": "2025-03-03",
-    "location": {
-      "city": "Doha",
-      "country": "Qatar",
-      "country_code": "QA"
+    date: "2025-03-03",
+    location: {
+      city: "Doha",
+      country: "Qatar",
+      country_code: "QA",
     },
-    "dish": {
-      "name": "Aadas Dal Soup",
-      "type": "Soup",
-      "cuisine": "Middle Eastern",
-      "description": "A hearty lentil soup made with yellow or red lentils, flavored with cumin, garlic, turmeric, and lemon. Smooth, warming, and packed with earthy spices."
+    dish: {
+      name: "Aadas Dal Soup",
+      type: "Soup",
+      cuisine: "Middle Eastern",
+      description:
+        "A hearty lentil soup made with yellow or red lentils, flavored with cumin, garlic, turmeric, and lemon. Smooth, warming, and packed with earthy spices.",
     },
-    "experience": "As a lentil lover, this was amazing. Smooth, slightly creamy, and full of rich spices. The hint of lemon added a refreshing touch. A perfect comfort food."
+    experience:
+      "As a lentil lover, this was amazing. Smooth, slightly creamy, and full of rich spices. The hint of lemon added a refreshing touch. A perfect comfort food.",
   },
   {
-    "date": "2025-03-03",
-    "location": {
-      "city": "Doha",
-      "country": "Qatar",
-      "country_code": "QA"
+    date: "2025-03-03",
+    location: {
+      city: "Doha",
+      country: "Qatar",
+      country_code: "QA",
     },
-    "dish": {
-      "name": "Mandi Rice with Chicken",
-      "type": "Rice Dish",
-      "cuisine": "Arabian",
-      "description": "A traditional Arabian rice dish made with long-grain basmati rice, spiced with cardamom, cinnamon, and cumin. The chicken is slow-cooked, often in a tandoor, giving it a smoky and tender texture. Served with sahawiq (spicy tomato sauce) and sometimes topped with nuts or raisins."
+    dish: {
+      name: "Mandi Rice with Chicken",
+      type: "Rice Dish",
+      cuisine: "Arabian",
+      description:
+        "A traditional Arabian rice dish made with long-grain basmati rice, spiced with cardamom, cinnamon, and cumin. The chicken is slow-cooked, often in a tandoor, giving it a smoky and tender texture. Served with sahawiq (spicy tomato sauce) and sometimes topped with nuts or raisins.",
     },
-    "experience": "The rice was incredibly aromatic and fluffy, while the chicken was juicy and had a light smoky flavor. The spices were well-balanced, and the sahawiq sauce added a great spicy kick. Definitely a dish that feels both comforting and flavorful."
+    experience:
+      "The rice was incredibly aromatic and fluffy, while the chicken was juicy and had a light smoky flavor. The spices were well-balanced, and the sahawiq sauce added a great spicy kick. Definitely a dish that feels both comforting and flavorful.",
   },
   {
-    "date": "2025-03-03",
-    "location": {
-      "city": "Doha",
-      "country": "Qatar",
-      "country_code": "QA"
+    date: "2025-03-03",
+    location: {
+      city: "Doha",
+      country: "Qatar",
+      country_code: "QA",
     },
-    "dish": {
-      "name": "Tandoori Roti",
-      "type": "Flatbread",
-      "cuisine": "Indian/Pakistani",
-      "description": "A traditional whole wheat flatbread cooked in a tandoor, giving it a slightly crispy and smoky texture. Less buttery than paratha, but pairs perfectly with curries and grilled meats."
+    dish: {
+      name: "Tandoori Roti",
+      type: "Flatbread",
+      cuisine: "Indian/Pakistani",
+      description:
+        "A traditional whole wheat flatbread cooked in a tandoor, giving it a slightly crispy and smoky texture. Less buttery than paratha, but pairs perfectly with curries and grilled meats.",
     },
-    "experience": "Loved the smoky, slightly charred flavor. It was firmer and less greasy than paratha, making it great for scooping up curry. Definitely a good option if you want something lighter but still flavorful."
+    experience:
+      "Loved the smoky, slightly charred flavor. It was firmer and less greasy than paratha, making it great for scooping up curry. Definitely a good option if you want something lighter but still flavorful.",
   },
   {
     date: "2025-03-03",
@@ -148,18 +154,20 @@
       "Surprisingly addictive. The balance of spices and sweetness made it incredibly smooth, and the condensed milk gave it a perfect creamy finish. A must-try in Qatar.",
   },
   {
-    "date": "2025-03-03",
-    "location": {
-      "city": "Doha",
-      "country": "Qatar",
-      "country_code": "QA"
+    date: "2025-03-03",
+    location: {
+      city: "Doha",
+      country: "Qatar",
+      country_code: "QA",
     },
-    "dish": {
-      "name": "Arabic Salad",
-      "type": "Salad",
-      "cuisine": "Middle Eastern",
-      "description": "A fresh salad made with diced cucumbers, tomatoes, onions, parsley, and mint, dressed with lemon juice, olive oil, salt, and pepper. Light, refreshing, and a perfect side dish for grilled meats and rice dishes."
+    dish: {
+      name: "Arabic Salad",
+      type: "Salad",
+      cuisine: "Middle Eastern",
+      description:
+        "A fresh salad made with diced cucumbers, tomatoes, onions, parsley, and mint, dressed with lemon juice, olive oil, salt, and pepper. Light, refreshing, and a perfect side dish for grilled meats and rice dishes.",
     },
-    "experience": "Crisp, tangy, and super refreshing. The combination of lemon juice, olive oil, and fresh herbs made it the perfect contrast to heavier dishes. Simple but delicious."
-  }
+    experience:
+      "Crisp, tangy, and super refreshing. The combination of lemon juice, olive oil, and fresh herbs made it the perfect contrast to heavier dishes. Simple but delicious.",
+  },
 ];
