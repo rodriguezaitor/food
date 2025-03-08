@@ -170,4 +170,22 @@
     experience:
       "Crisp, tangy, and super refreshing. The combination of lemon juice, olive oil, and fresh herbs made it the perfect contrast to heavier dishes. Simple but delicious.",
   },
+
+  {
+    date: "2025-03-08",
+    location: {
+      city: "Rasdhoo",
+      country: "Maldives",
+      country_code: "MV",
+    },
+    dish: {
+      name: "Kottu Roshi",
+      type: "Stir-fried Flatbread",
+      cuisine: "Maldivian",
+      description:
+        "A popular Maldivian street food dish made by stir-frying shredded roshi (flatbread) with vegetables, eggs, and a mix of aromatic spices. Often includes chicken or beef and is served with a side of curry or spicy sauce.",
+    },
+    experience:
+      "Incredibly flavorful and fun to eat. The mix of chopped roshi, spices, and crunchy vegetables gave it a great texture. It reminded me of Sri Lankan Kottu but with a distinct Maldivian touch. Would definitely eat it again!",
+  },
 ];
