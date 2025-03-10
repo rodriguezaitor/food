@@ -188,4 +188,21 @@
     experience:
       "Incredibly flavorful and fun to eat. The mix of chopped roshi, spices, and crunchy vegetables gave it a great texture. It reminded me of Sri Lankan Kottu but with a distinct Maldivian touch. Would definitely eat it again!",
   },
+  {
+    date: "2025-03-09",
+    location: {
+      city: "Rasdhoo",
+      country: "Maldives",
+      country_code: "MV",
+    },
+    dish: {
+      name: "Nariyal Ladoo",
+      type: "Dessert",
+      cuisine: "Nepali",
+      description:
+        "A sweet coconut dessert ball made with freshly grated coconut, condensed milk, sugar, and cardamom, formed into round shapes and often garnished with chopped nuts.",
+    },
+    experience:
+      "Received it as a gift from Dur Gesh, a Nepali guy working in the Lemon Drop restaurant while having dinner with Paloma from the dive center. The sweet coconut flavor was delicious and reminded me of home-made treats. A wonderful surprise during my Maldives trip.",
+  },
 ];
