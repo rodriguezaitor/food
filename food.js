@@ -205,4 +205,157 @@
     experience:
       "Received it as a gift from Dur Gesh, a Nepali guy working in the Lemon Drop restaurant while having dinner with Paloma from the dive center. The sweet coconut flavor was delicious and reminded me of home-made treats. A wonderful surprise during my Maldives trip.",
   },
+  {
+    date: "2025-03-14",
+    location: {
+      city: "Kuala Lumpur",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Sup Ayam",
+      type: "Soup",
+      cuisine: "Malaysian",
+      description:
+        "A clear Malaysian chicken soup served with white rice. The broth is light yet flavorful, containing tender chicken pieces and vegetables like carrots, celery, and onions. Seasoned with local herbs and spices that give it its characteristic savory taste.",
+    },
+    experience:
+      "Tried this during a night street food tour with a group. The clear broth was nicely salted and went perfectly with the white rice they served it with. The vegetables in the soup added a nice touch to the overall flavor.",
+  },
+  {
+    date: "2025-03-14",
+    location: {
+      city: "Kuala Lumpur",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Satay",
+      type: "Grilled Skewers",
+      cuisine: "Malaysian",
+      description:
+        "Traditional Malaysian meat skewers grilled over charcoal. A mix of chicken (Satay Ayam) and beef (Satay Daging) skewers, marinated in a blend of spices and soy sauce, giving the beef its characteristic dark brown color. Grilled to perfection with a smoky charcoal flavor.",
+    },
+    experience:
+      "Had these delicious BBQ skewers during the night food tour. The chicken was tender and well-seasoned, while the dark brown beef skewers had an intense, rich flavor from the marinade and charcoal grilling. Classic Malaysian street food at its best.",
+  },
+  {
+    date: "2025-03-14",
+    location: {
+      city: "Kuala Lumpur",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Nasi Goreng Ayam",
+      type: "Rice Dish",
+      cuisine: "Malaysian",
+      description:
+        "Malaysian style fried rice with chicken (ayam) and vegetables. The rice is stir-fried with tender chicken pieces, mixed vegetables, and eggs, seasoned with soy sauce and mild spices. A comfort food staple in Malaysian cuisine.",
+    },
+    experience:
+      "Part of the night food tour spread. The rice was well cooked with a nice mix of vegetables and chicken pieces throughout. Appreciated that it wasn't spicy, which let you taste all the different flavors. A comforting and satisfying dish.",
+  },
+  {
+    date: "2025-03-14",
+    location: {
+      city: "Kuala Lumpur",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Mee Goreng Mamak",
+      type: "Noodle Dish",
+      cuisine: "Malaysian-Indian",
+      description:
+        "Spicy fried noodles prepared in Indian-Malaysian style (Mamak), served with peanut sauce. Yellow noodles are stir-fried with vegetables and spices, creating a signature dish that combines heat with the richness of peanut sauce.",
+    },
+    experience:
+      "These noodles from the night tour packed quite a spicy punch! The peanut sauce added a rich, nutty dimension that worked really well with the heat. A proper street food experience that showed the Indian influence in Malaysian cuisine.",
+  },
+  {
+    date: "2025-03-14",
+    location: {
+      city: "Kuala Lumpur",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Kangkung",
+      type: "Vegetable Side Dish",
+      cuisine: "Malaysian",
+      description:
+        "Water spinach (or morning glory), a popular Southeast Asian leafy green vegetable with hollow stems. Simply prepared by boiling or light stir-frying, letting the natural flavor of this nutritious green vegetable shine through.",
+    },
+    experience:
+      "Tried these boiled green leaves during the night food tour. Simple but fresh, they provided a nice, light contrast to the other more intense dishes. A good way to experience how Malaysians incorporate vegetables into their meals.",
+  },
+  {
+    date: "2025-03-14",
+    location: {
+      city: "Kuala Lumpur",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Mangosteen",
+      type: "Tropical Fruit",
+      cuisine: "Southeast Asian",
+      description:
+        "Known as the 'Queen of Fruits', mangosteen has a deep purple outer shell containing soft, white, segmented flesh. The fruit offers a perfect balance of sweet and slightly tart flavors, with a delicate, almost creamy texture.",
+    },
+    experience:
+      "The contrast between the hard purple exterior and the soft, snow-white segments inside is striking. The taste is uniquely refreshing - sweet but sophisticated, with a subtle tanginess. One of the most elegant tropical fruits I've tried.",
+  },
+  {
+    date: "2025-03-14",
+    location: {
+      city: "Kuala Lumpur",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Langsat (Lansium domesticum)",
+      type: "Tropical Fruit",
+      cuisine: "Southeast Asian",
+      description:
+        "Small, round fruits growing in clusters with translucent, segmented flesh inside a thin, pale yellow skin. Similar to its cousin the longan, but with a more delicate, grape-like taste and less sweetness.",
+    },
+    experience:
+      "These small, delicate fruits were a pleasant surprise. Each segment was juicy and refreshing, with a subtle sweet-sour taste that wasn't overwhelming. The thin skin peeled easily to reveal the translucent segments inside.",
+  },
+  {
+    date: "2025-03-14",
+    location: {
+      city: "Kuala Lumpur",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Salak (Snake Fruit)",
+      type: "Tropical Fruit",
+      cuisine: "Southeast Asian",
+      description:
+        "Also known as snake fruit due to its reddish-brown scaly skin. The flesh inside is segmented, crisp, and white, with a unique taste that combines sweet, sour, and slightly astringent notes. Each segment typically contains a large inedible seed.",
+    },
+    experience:
+      "Such an interesting fruit! The scaly skin really does look like snakeskin. The crisp, apple-like texture of the flesh was unexpected, and the taste was a complex mix of sweet and tart. A truly unique tropical fruit experience.",
+  },
+  {
+    date: "2025-03-15",
+    location: {
+      city: "Kuala Lumpur",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Roti Daging",
+      type: "Stuffed Flatbread",
+      cuisine: "Malaysian-Indian",
+      description:
+        "A flaky, layered flatbread (roti) stuffed with spiced minced beef (daging). The bread is crispy on the outside while staying soft inside, and the beef filling is seasoned with Malaysian spices. Often served with curry sauce or dhal for dipping.",
+    },
+    experience:
+      "Absolutely fantastic! The bread was perfectly cooked - crispy and flaky on the outside while staying soft inside. The spiced beef filling was incredibly flavorful and juicy. One of those dishes that makes you understand why Malaysian food is so special.",
+  },
 ];
