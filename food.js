@@ -358,4 +358,21 @@
     experience:
       "Absolutely fantastic! The bread was perfectly cooked - crispy and flaky on the outside while staying soft inside. The spiced beef filling was incredibly flavorful and juicy. One of those dishes that makes you understand why Malaysian food is so special.",
   },
+  {
+    date: "2025-03-15",
+    location: {
+      city: "Kuala Lumpur",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Nasi Ayam",
+      type: "Rice Dish",
+      cuisine: "Malaysian",
+      description:
+        "A Malaysian staple consisting of fragrant rice cooked in chicken broth and aromatics, served with crispy fried chicken and a very salty clear chicken soup on the side. The dish often comes with chili sauce and soy sauce condiments. The rice itself has a subtle but distinct chicken flavor from being cooked in broth.",
+    },
+    experience:
+      "A complete meal that really delivers - the rice was flavorful on its own from being cooked in chicken broth, the fried chicken was perfectly crispy, and that super salty soup surprisingly tied everything together. A great example of how Malaysians can make something as simple as chicken and rice into something special.",
+  },
 ];
