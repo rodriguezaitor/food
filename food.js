@@ -375,4 +375,72 @@
     experience:
       "A complete meal that really delivers - the rice was flavorful on its own from being cooked in chicken broth, the fried chicken was perfectly crispy, and that super salty soup surprisingly tied everything together. A great example of how Malaysians can make something as simple as chicken and rice into something special.",
   },
+  {
+    date: "2025-03-21",
+    location: {
+      city: "Perhentian Islands",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Nasi Lemak",
+      type: "Rice Dish",
+      cuisine: "Malaysian",
+      description:
+        "Malaysia's national dish consisting of coconut rice served with various side dishes including sambal (spicy shrimp paste), fried anchovies, peanuts, cucumber slices, and a boiled or fried egg. Often served with additional protein like fried fish. The dish is traditionally wrapped in banana leaf.",
+    },
+    experience:
+      "Not really to my taste. The coconut rice was fine, but I didn't enjoy the strong shrimp flavor from the red sambal sauce or the fried fish that came with it. This classic Malaysian dish might be beloved by locals, but the particular flavors didn't work for me.",
+  },
+  {
+    date: "2025-03-21",
+    location: {
+      city: "Perhentian Islands",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Mango Chicken Curry",
+      type: "Curry",
+      cuisine: "Malaysian Fusion",
+      description:
+        "A delicious curry combining tender pieces of chicken in a rich, creamy sauce infused with sweet mango. The dish balances sweet, savory, and spicy flavors perfectly, creating a tropical twist on traditional curry. Served with plain white rice that soaks up the flavorful sauce.",
+    },
+    experience:
+      "Absolutely cojonudo! So good that I ended up ordering it every single day during my stay in Perhentian. The combination of the sweet mango with the spices in the curry created a perfect balance, and the white rice was ideal for soaking up all that amazing sauce. Definitely one of the highlights of my Malaysian food experience.",
+  },
+  {
+    date: "2025-03-22",
+    location: {
+      city: "Perhentian Islands",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Malaysian White Coffee",
+      type: "Beverage",
+      cuisine: "Malaysian",
+      description:
+        "A uniquely Malaysian coffee preparation originating from Ipoh, where coffee beans are roasted with margarine, giving it a lighter color and distinctive taste. Typically served with sweetened condensed milk, creating a creamy, rich beverage that's less bitter than regular coffee.",
+    },
+    experience:
+      "A pleasant surprise! Much creamier and smoother than regular coffee, with a unique caramel-like flavor. The condensed milk adds a perfect sweetness that balances the coffee notes. It's become my go-to coffee option in Malaysia - different from Western coffee but delicious in its own way.",
+  },
+  {
+    date: "2025-03-22",
+    location: {
+      city: "Perhentian Islands",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Kaya & Butter Toast",
+      type: "Breakfast",
+      cuisine: "Malaysian",
+      description:
+        "A classic Malaysian breakfast consisting of toasted bread spread generously with a thick layer of cold butter and kaya (a sweet coconut egg jam made with coconut milk, eggs, and sugar). Often served with half-boiled eggs on the side and Malaysian white coffee as the perfect complement.",
+    },
+    experience:
+      "The perfect Malaysian breakfast! The contrast between the cold, thick butter and the sweet, aromatic kaya jam on the crispy toast was delicious. The coconut flavor in the kaya is unique and addictive - nothing like Western jams. Paired perfectly with the white coffee for a complete local breakfast experience.",
+  },
 ];
