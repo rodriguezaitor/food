@@ -443,4 +443,174 @@
     experience:
       "The perfect Malaysian breakfast! The contrast between the cold, thick butter and the sweet, aromatic kaya jam on the crispy toast was delicious. The coconut flavor in the kaya is unique and addictive - nothing like Western jams. Paired perfectly with the white coffee for a complete local breakfast experience.",
   },
+  {
+    date: "2025-03-24",
+    location: {
+      city: "Semporna",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Fried Shrimp with Butter",
+      type: "Seafood",
+      cuisine: "Malaysian",
+      description:
+        "Whole shrimp fried with their shells on, served with a rich butter sauce. The shrimp are cut into strips and deep-fried until crispy, creating a crunchy texture that contrasts with the tender meat inside. The butter sauce adds a rich, savory flavor to the dish.",
+    },
+    experience:
+      "Shared this delicious dish with Elida, my diving buddy, at a local restaurant in Semporna. The shrimp were perfectly crispy with their shells on, and the butter sauce made them incredibly rich and flavorful. The random cutting style gave it a unique texture that made it even more interesting to eat. A great example of Malaysian seafood preparation.",
+  },
+  {
+    date: "2025-03-24",
+    location: {
+      city: "Semporna",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Three Egg Steamed Egg",
+      type: "Egg Dish",
+      cuisine: "Malaysian",
+      description:
+        "A unique Malaysian steamed egg dish that combines three different types of eggs: regular eggs, salted eggs, and century eggs (black eggs). The mixture is steamed to create a smooth, custard-like texture. The combination of regular eggs' creaminess, salted eggs' savory richness, and century eggs' distinctive flavor creates a complex and interesting dish.",
+    },
+    experience:
+      "A fascinating dish that showcased three different egg preparations in one. The steamed texture was smooth and custard-like, while the combination of regular eggs, salted eggs, and century eggs created an interesting mix of flavors and textures. The century eggs added their distinctive taste, while the salted eggs brought a rich, savory element. A unique way to experience different egg preparations in Malaysian cuisine.",
+  },
+  {
+    date: "2025-03-24",
+    location: {
+      city: "Semporna",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Ikan Batu (Stonefish)",
+      type: "Seafood",
+      cuisine: "Malaysian",
+      description:
+        "Stonefish, one of the most venomous fish in the world, prepared as a local delicacy. The fish has a distinctive appearance with its rough, stone-like exterior. Despite its dangerous nature when alive, when properly prepared, it offers tender, white flesh with a mild, sweet flavor. The fish is typically steamed or cooked in a light sauce to preserve its delicate taste.",
+    },
+    experience:
+      "A unique experience trying one of the world's most dangerous fish! The fish was expertly prepared, removing all the venomous spines. The flesh was surprisingly tender and sweet, with a clean, mild flavor. It was fascinating to see how such a dangerous creature could be transformed into a delicate dish. Definitely a memorable part of the Malaysian seafood experience.",
+  },
+  {
+    date: "2025-03-24",
+    location: {
+      city: "Semporna",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Midin (Fern Shoots)",
+      type: "Vegetable Side Dish",
+      cuisine: "Malaysian",
+      description:
+        "A wild fern species (Stenochlaena palustris) commonly found in Malaysian jungles. The young, tender shoots are harvested and typically stir-fried with garlic, belacan (shrimp paste), and chili. The fern has a unique, slightly crunchy texture and a mild, earthy flavor that pairs well with spicy seasonings.",
+    },
+    experience:
+      "A unique vegetable dish that showcased Malaysia's wild food traditions. The fern shoots had a satisfying crunch and absorbed the flavors of garlic and belacan perfectly. It was a great example of how Malaysians incorporate wild ingredients into their cuisine, creating something both nutritious and delicious.",
+  },
+  {
+    date: "2025-03-25",
+    location: {
+      city: "Semporna",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Cendol",
+      type: "Dessert Drink",
+      cuisine: "Malaysian",
+      description:
+        "A refreshing Malaysian dessert drink made with shaved ice, green rice flour jelly noodles (cendol), coconut milk, and palm sugar (gula melaka). The drink combines the cooling effect of shaved ice with the rich creaminess of coconut milk and the sweet, caramel-like flavor of palm sugar. The green jelly noodles add a unique texture and visual appeal.",
+    },
+    experience:
+      "A perfect drink for Malaysia's hot weather! The combination of cold shaved ice, creamy coconut milk, and sweet palm sugar was incredibly refreshing. The green jelly noodles added a fun, chewy texture that made it more interesting than a regular drink. A great way to cool down and experience a classic Malaysian dessert.",
+  },
+  {
+    date: "2025-03-31",
+    location: {
+      city: "Sepilok",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Kuih Makmur",
+      type: "Dessert",
+      cuisine: "Malaysian",
+      description:
+        "A traditional Malaysian cookie made from ground peanuts, flour, and butter, shaped into small round balls and coated with powdered sugar. The cookie has a crumbly, melt-in-your-mouth texture with a rich, nutty flavor. The combination of ground peanuts and butter creates a luxurious, creamy taste that's both sweet and savory.",
+    },
+    experience:
+      "¡Cojonudo! These cookies were absolutely amazing - the perfect balance of sweet and nutty flavors. The texture was incredibly delicate, practically melting in your mouth. The powdered sugar coating added just the right amount of sweetness without being overwhelming. A perfect example of Malaysian traditional sweets.",
+  },
+  {
+    date: "2025-03-31",
+    location: {
+      city: "Sepilok",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Purple Dragon Fruit (Buah Naga Morada)",
+      type: "Tropical Fruit",
+      cuisine: "Southeast Asian",
+      description:
+        "A vibrant purple variety of dragon fruit (Hylocereus costaricensis) with deep purple flesh and black seeds. The fruit has a sweet, mildly refreshing taste with a texture similar to kiwi. The striking purple color comes from natural betacyanin pigments, making it both visually stunning and nutritious.",
+    },
+    experience:
+      "¡Rica! The purple dragon fruit was absolutely delicious - much sweeter and more flavorful than the white variety I've tried before. The deep purple color was stunning, and the contrast with the black seeds made it look almost like a work of art. The texture was perfect - not too soft, not too firm, just right. A beautiful and tasty tropical treat.",
+  },
+  {
+    date: "2025-03-31",
+    location: {
+      city: "Sepilok",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Lemang Pulut",
+      type: "Rice Dish",
+      cuisine: "Malaysian",
+      description:
+        "A traditional Malaysian dish made from glutinous rice (pulut) cooked inside bamboo tubes over an open fire. The rice is mixed with coconut milk and salt, then stuffed into bamboo tubes lined with banana leaves. The slow cooking process over charcoal gives it a distinctive smoky flavor and a slightly charred exterior. The result is a sticky, creamy rice with a subtle coconut flavor and a unique bamboo aroma.",
+    },
+    experience:
+      "A fascinating traditional dish! The rice had a perfect sticky texture and a subtle smoky flavor from being cooked in bamboo. The coconut milk added a rich creaminess, while the banana leaves imparted a subtle herbal note. It was interesting to see how the bamboo cooking method created such a unique texture and flavor. A great example of traditional Malaysian cooking techniques.",
+  },
+  {
+    date: "2025-03-31",
+    location: {
+      city: "Sepilok",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Kangkung Belacan",
+      type: "Vegetable Side Dish",
+      cuisine: "Malaysian",
+      description:
+        "Water spinach (kangkung) stir-fried with belacan (shrimp paste), garlic, and chili. The dish combines the crisp, hollow stems of water spinach with the pungent, savory flavor of belacan. The vegetables are quickly stir-fried to maintain their crunch while absorbing the rich, spicy sauce.",
+    },
+    experience:
+      "A delicious way to eat vegetables! The water spinach had a perfect crunch, and the belacan sauce gave it a rich, savory flavor that made it much more interesting than plain vegetables. The combination of garlic and chili added just the right amount of heat. A great example of how Malaysians make vegetables exciting.",
+  },
+  {
+    date: "2025-03-31",
+    location: {
+      city: "Sepilok",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Yellow Watermelon (Tembikai Kuning)",
+      type: "Tropical Fruit",
+      cuisine: "Southeast Asian",
+      description:
+        "A unique variety of watermelon with yellow-orange flesh instead of the traditional red. The fruit has a sweeter, more honey-like flavor compared to regular watermelon, with a slightly different texture. The yellow color comes from natural carotenoid pigments, making it both visually distinct and nutritious.",
+    },
+    experience:
+      "A surprising twist on the classic watermelon! The yellow-orange color was unexpected but beautiful. The taste was sweeter and more honey-like than regular watermelon, with a slightly different texture. It was refreshing and delicious, showing how even familiar fruits can have interesting variations in Malaysia.",
+  },
 ];
