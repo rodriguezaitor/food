@@ -613,4 +613,21 @@
     experience:
       "A surprising twist on the classic watermelon! The yellow-orange color was unexpected but beautiful. The taste was sweeter and more honey-like than regular watermelon, with a slightly different texture. It was refreshing and delicious, showing how even familiar fruits can have interesting variations in Malaysia.",
   },
+  {
+    date: "2025-03-31",
+    location: {
+      city: "Sepilok",
+      country: "Malaysia",
+      country_code: "MY",
+    },
+    dish: {
+      name: "Nasi Kuning",
+      type: "Rice Dish",
+      cuisine: "Malaysian",
+      description:
+        "A fragrant yellow rice dish made by cooking rice with turmeric, coconut milk, and aromatic spices like lemongrass and pandan leaves. The turmeric gives the rice its distinctive yellow color, while the coconut milk adds richness and a subtle sweetness. Often served with various side dishes and is a popular choice for special occasions.",
+    },
+    experience:
+      "A beautiful and flavorful rice dish! The yellow color from the turmeric was vibrant, and the coconut milk gave it a rich, creamy texture. The combination of spices created a complex aroma that made it more interesting than plain rice. A perfect example of how Malaysians transform simple rice into something special.",
+  },
 ];
