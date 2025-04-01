@@ -630,4 +630,72 @@
     experience:
       "A beautiful and flavorful rice dish! The yellow color from the turmeric was vibrant, and the coconut milk gave it a rich, creamy texture. The combination of spices created a complex aroma that made it more interesting than plain rice. A perfect example of how Malaysians transform simple rice into something special.",
   },
+  {
+    date: "2025-04-01",
+    location: {
+      city: "Indonesia",
+      country: "Indonesia",
+      country_code: "ID",
+    },
+    dish: {
+      name: "Sayur Labu Siam",
+      type: "Vegetable Soup",
+      cuisine: "Indonesian",
+      description:
+        "A traditional Indonesian vegetable soup made with chayote squash (labu siam), cooked in a light broth with garlic, shallots, and sometimes coconut milk. The chayote squash has a mild, slightly sweet flavor and a crisp texture that softens when cooked. Often served as a side dish with rice and other main courses.",
+    },
+    experience:
+      "A light and refreshing vegetable soup! The chayote squash had a nice, subtle sweetness and maintained a slight crunch even when cooked. The broth was light but flavorful, making it a perfect accompaniment to other dishes. A great example of how Indonesians prepare vegetables in their cuisine.",
+  },
+  {
+    date: "2025-04-01",
+    location: {
+      city: "Indonesia",
+      country: "Indonesia",
+      country_code: "ID",
+    },
+    dish: {
+      name: "Telur Balado",
+      type: "Egg Dish",
+      cuisine: "Indonesian",
+      description:
+        "A traditional Indonesian dish featuring hard-boiled eggs in a spicy red sauce (balado). The sauce is made from red chili peppers, shallots, garlic, and tomatoes, creating a fiery, tangy flavor. The eggs are typically deep-fried before being coated in the sauce, giving them a crispy exterior while maintaining a soft yolk inside.",
+    },
+    experience:
+      "Not really to my taste. The sauce was extremely spicy and the combination of the hard-boiled eggs with the intense chili sauce didn't work well for me. While it's a popular dish in Indonesia, the strong chili flavor was too overwhelming and I couldn't really enjoy the eggs themselves.",
+  },
+  {
+    date: "2025-04-01",
+    location: {
+      city: "Indonesia",
+      country: "Indonesia",
+      country_code: "ID",
+    },
+    dish: {
+      name: "Opor Ayam",
+      type: "Curry",
+      cuisine: "Indonesian",
+      description:
+        "A traditional Indonesian chicken curry cooked in coconut milk with a blend of spices including coriander, lemongrass, galangal, and bay leaves. The chicken is simmered until tender in a rich, creamy sauce that has a mild, aromatic flavor. Often served with rice and is particularly popular during special occasions and celebrations.",
+    },
+    experience:
+      "A solid, comforting dish. The chicken was tender and the coconut milk sauce was rich and creamy. While it wasn't particularly spicy, the combination of spices gave it a nice aromatic flavor. A good example of Indonesian comfort food, though not particularly memorable compared to other dishes I've tried.",
+  },
+  {
+    date: "2025-04-01",
+    location: {
+      city: "Indonesia",
+      country: "Indonesia",
+      country_code: "ID",
+    },
+    dish: {
+      name: "Indomie Kuah",
+      type: "Instant Noodles",
+      cuisine: "Indonesian",
+      description:
+        "Indonesia's most popular instant noodle brand, Indomie, served in soup form (kuah means 'soup' in Indonesian). The noodles are cooked in a flavorful broth made from the seasoning packet, which typically includes a mix of spices, herbs, and savory flavors. Often garnished with green onions, fried shallots, and sometimes an egg. A beloved comfort food across Indonesia.",
+    },
+    experience:
+      "Really good! The broth was surprisingly flavorful for an instant noodle, with a nice balance of savory and spicy notes. The noodles had a perfect texture - not too soft, not too firm. The added garnishes made it feel more like a proper meal than just instant noodles. A great example of how Indonesians have elevated instant noodles to a comfort food staple.",
+  },
 ];
